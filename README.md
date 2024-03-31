@@ -15,6 +15,6 @@
   ![byEarMainRed1242x2208](https://github.com/azullstrom/byEar-unity-app/assets/91020676/c711749e-f2c2-450b-9aa7-5b7b3b6fae6a)
   ![byEarStartMenu1242x2208](https://github.com/azullstrom/byEar-unity-app/assets/91020676/334d570d-f72d-448b-b83b-9a19f9f7299f)
 
-  <img src='[figure/rstudio.png](https://github.com/azullstrom/byEar-unity-app/assets/91020676/d7ad4390-f18b-4271-a3c3-f9b75c80761b)' width='25'>
+  <img src='[figure/rstudio.png](https://github.com/azullstrom/byEar-unity-app/assets/91020676/d7ad4390-f18b-4271-a3c3-f9b75c80761b.png)' width='25'>
 
 </div>
