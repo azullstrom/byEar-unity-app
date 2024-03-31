@@ -12,7 +12,6 @@
   The app features a virtual guitar that you play just like you would play a real guitar. When you start the app, you can choose the difficulty level, which determines how challenging the guitar chords will be to figure out by ear.
   </p>
 
-  <img src='Assets/Images/180x180 byEar.png' width='180'>
   <img src='byEarStartMenu1242x2688.jpg' width='180'>
   <img src='byEarMain1242x2688.jpg' width='180'>
   <img src='byEarMainGreen1242x2688.jpg' width='180'>
