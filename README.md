@@ -3,7 +3,7 @@
 <div align="center">
   
   <h1>
-    byEar <br><i>Listen & Play the Chord</i>
+    byEar <br><h2><i>Listen & Play the Chord</i></h2>
   </h1>
     
   <b>Developer: azullstrom</b>
