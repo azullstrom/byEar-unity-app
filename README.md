@@ -16,5 +16,8 @@
   ![byEarStartMenu1242x2208](https://github.com/azullstrom/byEar-unity-app/assets/91020676/334d570d-f72d-448b-b83b-9a19f9f7299f)
 
   <img src='Assets/Images/180x180 byEar.png' width='180'>
+  <img src='Assets/Images/180x180 byEar.png' width='180'>
+  <img src='Assets/Images/180x180 byEar.png' width='180'>
+  <img src='Assets/Images/180x180 byEar.png' width='180'>
 
 </div>
