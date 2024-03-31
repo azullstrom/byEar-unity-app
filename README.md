@@ -1,6 +1,7 @@
 # byear-app
 
 <div align="center">
+  
   <h1>byEar</h1>
     
   <b>Developer: azullstrom</b>
@@ -11,13 +12,10 @@
   The app features a virtual guitar that you play just like you would play a real guitar. When you start the app, you can choose the difficulty level, which determines how challenging the guitar chords will be to figure out by ear.
   </p>
 
-  ![byEarMainGreen1242x2208](https://github.com/azullstrom/byEar-unity-app/assets/91020676/2c6411c6-6e35-4c6e-bc64-4d3e769c16f9 | width=200) 
-  ![byEarMainRed1242x2208](https://github.com/azullstrom/byEar-unity-app/assets/91020676/c711749e-f2c2-450b-9aa7-5b7b3b6fae6a)
-  ![byEarStartMenu1242x2208](https://github.com/azullstrom/byEar-unity-app/assets/91020676/334d570d-f72d-448b-b83b-9a19f9f7299f)
-
   <img src='Assets/Images/180x180 byEar.png' width='180'>
-  <img src='Assets/Images/180x180 byEar.png' width='180'>
-  <img src='Assets/Images/180x180 byEar.png' width='180'>
-  <img src='Assets/Images/180x180 byEar.png' width='180'>
+  <img src='byEarStartMenu1242x2688.jpg' width='180'>
+  <img src='byEarMain1242x2688.jpg' width='180'>
+  <img src='byEarMainGreen1242x2688.jpg' width='180'>
+  <img src='byEarMainRed1242x2688.jpg' width='180'>
 
 </div>
